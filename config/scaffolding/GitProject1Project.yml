@@ -7,3 +7,6 @@ packages:
   gitUrl: https://github.com/santhu736852
   gitUsername: santhu736852
   gitBranch: main
+- name: WmB2BDocuments
+  wpmServer: https://packages.webmethods.io
+  wpmRegistry: licensed
