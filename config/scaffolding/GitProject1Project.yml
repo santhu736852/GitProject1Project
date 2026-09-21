@@ -8,5 +8,6 @@ packages:
   gitUsername: santhu736852
   gitBranch: main
 - name: WmB2BDocuments
+  version: "1.0"
   wpmServer: https://packages.webmethods.io
   wpmRegistry: licensed
